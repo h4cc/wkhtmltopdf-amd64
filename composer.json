@@ -1,0 +1,18 @@
+{
+    "name": "h4cc/wkhtmltopdf-amd64",
+    "description": "Convert html to pdf using webkit (qtwebkit)",
+    "license": "LGPL Version 3",
+    "homepage": "https://code.google.com/p/wkhtmltopdf/",
+    "authors": [
+        {
+            "name": "Julius Beckmann",
+            "email": "github@h4cc.de"
+        }
+    ],
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/wkhtmltopdf-amd64"
+    ],
+    "require": {
+    }
+}
