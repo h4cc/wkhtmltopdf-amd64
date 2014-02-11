@@ -3,7 +3,7 @@
     "description": "Convert html to pdf using webkit (qtwebkit). Static linked linux binary for amd64 systems.",
     "keywords": ["pdf", "thumbnail", "snapshot", "wkhtmltopdf", "convert", "binary"],
     "license": "LGPL Version 3",
-    "homepage": "https://code.google.com/p/wkhtmltopdf/",
+    "homepage": "http://wkhtmltopdf.org/",
     "authors": [
         {
             "name": "Julius Beckmann",
