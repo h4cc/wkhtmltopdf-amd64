@@ -12,7 +12,7 @@ To install the latest version, use '0.12.0'.
 
 ### Packagist
 
-This package can be found on [Packagist](http://packagist.org) and installed with [Composer](http://getcomposer.com/).
+This package can be found on [Packagist](http://packagist.org) and installed with [Composer](https://getcomposer.org/).
 
 Require the package for _i386_ with:
 
