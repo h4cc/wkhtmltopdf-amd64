@@ -1,7 +1,7 @@
 wkhtmltopdf
 ================
 
-This Repo contains the Debian 7.8 (Wheezy) Binarys from the [wkhtmltopdf project](http://wkhtmltopdf.org/).
+This repository contains the Debian 7.8 (Wheezy) binaries from the [wkhtmltopdf project](http://wkhtmltopdf.org/).
 More about the functionality of wkhtmltopdf and wkthmltoimage can be found there.
 
 ## Installation
@@ -14,7 +14,7 @@ In case this package does _not_ work on your system, try installing the matching
 
 ### Packagist
 
-This package can be found on [Packagist](http://packagist.org) and installed with [Composer](http://getcomposer.com/).
+This package can be found on [Packagist](http://packagist.org) and installed with [Composer](https://getcomposer.org/).
 
 Require the package for _i386_ with:
 
