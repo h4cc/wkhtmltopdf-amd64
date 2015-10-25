@@ -12,7 +12,7 @@ _Hint_:
 The version of the binary is equal to the git tag.
 To install the latest version, use '0.12.2.1'.
 
-In case this package does _not_ work on your system, try installing the matching system packages from here: [http://wkhtmltopdf.org/downloads.html](http://wkhtmltopdf.org/downloads.html).
+__:exclamation: In case this package does _not_ work on your system, try installing the matching system packages from here: [http://wkhtmltopdf.org/downloads.html](http://wkhtmltopdf.org/downloads.html) :exclamation:.__
 
 ### Packagist
 
