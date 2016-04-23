@@ -6,6 +6,8 @@ More about the functionality of wkhtmltopdf and wkthmltoimage can be found there
 
 Binaries for __Microsoft Windows__, also installable with composer, can be found here: [github.com/wemersonjanuario/wkhtmltopdf-windows](https://github.com/wemersonjanuario/wkhtmltopdf-windows)
 
+Binaries for __CentOS 7__, also installable with composer, can be found here: [github.com/rvanlaak/wkhtmltopdf-amd64-centos7](https://github.com/rvanlaak/wkhtmltopdf-amd64-centos7)
+
 ## Installation
 
 _Hint_:
