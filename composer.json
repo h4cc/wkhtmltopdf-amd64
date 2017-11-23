@@ -15,5 +15,10 @@
         "bin/wkhtmltopdf-amd64"
     ],
     "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "h4cc\\WKHTMLToPDF\\": ""
+        }
     }
 }
