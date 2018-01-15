@@ -34,3 +34,16 @@ Also a symlink will be created in your configured bin/ folder, for example:
 
     vendor/bin/wkhtmltopdf-i386
 
+### Usage
+
+You can use the path constant to easily locate the binary in the PHP codebase: 
+
+``` php
+$path = \h4cc\WKHTMLToPDF\WKHTMLToPDF::PATH;
+```
+
+For realpath use following script
+
+``` php
+$realpath = realpath(\h4cc\WKHTMLToPDF\WKHTMLToPDF::PATH);
+```
