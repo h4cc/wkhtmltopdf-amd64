@@ -33,6 +33,22 @@ The binary will then be located at:
 Also a symlink will be created in your configured bin/ folder, for example:
 
     vendor/bin/wkhtmltopdf-i386
+    
+### Vagrant users
+
+If you have the error "126" you have to copy the binary file outside the sync directory.
+
+```bash
+cp vendor/h4cc/wkhtmltopdf-amd64/bin/wkhtmltopdf-amd64 /opt/
+chmod +x /opt/wkhtmltopdf-amd64
+```
+
+You have to reconfigure your application or just create a symlink
+
+```bash
+rm vendor/h4cc/wkhtmltopdf-amd64/bin/wkhtmltopdf-amd64
+ln -s /opt/wkhtmltopdf-amd64 vendor/h4cc/wkhtmltopdf-amd64/bin/wkhtmltopdf-amd64
+```
 
 ### Usage
 
