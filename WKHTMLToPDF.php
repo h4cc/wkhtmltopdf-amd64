@@ -1,5 +1,5 @@
 <?php
-namespace h4cc\WKHTMLToPDF;
+namespace dreamr-uk\WKHTMLToPDF;
 
 class WKHTMLToPDF
 {
