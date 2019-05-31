@@ -1,5 +1,5 @@
 {
-    "name": "alchemy-fr/wkhtmltopdf-amd64",
+    "name": "alchemy/wkhtmltopdf-amd64",
     "description": "Convert html to pdf using webkit (qtwebkit). Static linked linux binary for amd64 systems.",
     "keywords": ["pdf", "thumbnail", "snapshot", "wkhtmltopdf", "convert", "binary"],
     "license": "LGPL Version 3",
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "alchemy-fr\\WKHTMLToPDF\\": ""
+            "Alchemy\\WKHTMLToPDF\\": ""
         }
     }
 }
